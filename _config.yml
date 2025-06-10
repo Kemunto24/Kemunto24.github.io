@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ICT Service Support Specialist
-email:fkemunto848@gmail.com
+email: fkemunto848@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 "I'm an IT professional with experience in technical support, system maintenance, and network management. This site highlights my skills, experience, and passion for efficient, secure IT solutions."
 
 
 twitter_username: faithkemmy6
 github_username: Kemunto24
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", " .
+minimal_mistakes_skin: "default"  
 search: true
 
 # Build settings
