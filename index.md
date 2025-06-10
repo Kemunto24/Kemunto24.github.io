@@ -28,7 +28,7 @@ Technical University of Kenya (2018–2022)
 
 ## 📫 Contact
 - Email: fkemunto848@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/faith-ratemo-)  
+- LinkedIn: https://www.linkedin.com/in/faith-ratemo-
 - Phone: +254 714 287 590
 
 ---
