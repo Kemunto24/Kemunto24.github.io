@@ -14,8 +14,8 @@ Welcome to my portfolio website! I'm a dedicated IT professional with experience
 ## 💼 Experience
 **Kenya Revenue Authority**  
 *ICT Graduate Trainee (2023 – 2024)*  
- Managed hardware/software issues and supported IT infrastructure.  
- Delivered second-level technical support and user training.
+  Managed hardware/software issues and supported IT infrastructure.  
+  Delivered second-level technical support and user training.
 
 ## 🎓 Education
 **Bachelor of Technology in Business Information Technology**  
